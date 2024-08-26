@@ -1,0 +1,104 @@
+,Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+102,206,the_and_in_to_is,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103]",204,the_was_and_room_were,205,de_la_four_hotel_stay,1.7374457870870783
+101,205,de_la_four_hotel_stay,"[0, 2, 3, 6, 9, 13, 15, 17, 21, 24, 27, 29, 33, 34, 35, 38, 39, 41, 42, 43, 45, 46, 47, 52, 53, 54, 56, 62, 67, 70, 71, 72, 73, 74, 75, 76, 80, 81, 88, 90, 91, 94, 96, 100, 102]",163,again_stay_here_will_back,202,de_la_four_seasons_hotel,1.4858327112951153
+100,204,the_was_and_room_were,"[1, 4, 5, 7, 8, 10, 11, 12, 14, 16, 18, 19, 20, 22, 23, 25, 26, 28, 30, 31, 32, 36, 37, 40, 44, 48, 49, 50, 51, 55, 57, 58, 59, 60, 61, 63, 64, 65, 66, 68, 69, 77, 78, 79, 82, 83, 84, 85, 86, 87, 89, 92, 93, 95, 97, 98, 99, 101, 103]",194,staff_friendly_helpful_desk_front,203,the_room_was_and_pool,1.4784775945100395
+99,203,the_room_was_and_pool,"[1, 5, 7, 8, 10, 11, 14, 16, 18, 19, 20, 22, 23, 25, 26, 28, 30, 32, 37, 40, 44, 48, 49, 50, 51, 55, 57, 58, 59, 60, 61, 63, 64, 65, 66, 68, 69, 77, 78, 79, 82, 83, 86, 87, 89, 92, 98, 99, 101, 103]",199,pool_was_breakfast_the_room,193,bathroom_shower_view_suite_rooms,1.3861061104814583
+98,202,de_la_four_seasons_hotel,"[0, 2, 3, 6, 9, 13, 15, 17, 21, 24, 33, 34, 38, 39, 41, 42, 43, 45, 46, 47, 52, 53, 54, 56, 62, 70, 71, 72, 73, 74, 75, 80, 81, 88, 90, 91, 94, 96, 100, 102]",150,stayed_nights_august_surrey_here,201,de_la_four_seasons_location,1.3624755427008892
+97,201,de_la_four_seasons_location,"[0, 2, 3, 6, 9, 13, 15, 17, 21, 24, 34, 38, 39, 41, 42, 43, 45, 46, 47, 52, 53, 54, 56, 62, 70, 71, 73, 74, 75, 80, 81, 88, 90, 91, 96, 100]",200,four_seasons_location_is_this,159,de_la_le_un_et,1.322828559142229
+96,200,four_seasons_location_is_this,"[2, 3, 6, 13, 15, 17, 24, 34, 38, 39, 41, 42, 43, 45, 46, 47, 52, 53, 54, 56, 62, 70, 71, 73, 74, 75, 80, 81, 88, 90, 91, 96, 100]",198,four_seasons_location_is_hotel,196,service_star_five_stars_customer,1.2976640338905008
+95,199,pool_was_breakfast_the_room,"[5, 7, 8, 11, 16, 19, 20, 22, 25, 26, 28, 30, 32, 37, 40, 49, 50, 51, 55, 57, 58, 59, 60, 61, 63, 64, 66, 68, 77, 78, 79, 82, 83, 86, 89, 92, 98, 99, 103]",192,housekeeping_our_check_they_anniversary,197,pool_breakfast_the_was_spa,1.260917172894585
+94,198,four_seasons_location_is_hotel,"[2, 3, 6, 15, 17, 24, 34, 38, 39, 41, 42, 43, 45, 46, 47, 52, 53, 56, 70, 71, 73, 74, 75, 81, 88, 90, 91, 96]",111,ritz_carlton_at_stayed_charlotte,195,four_seasons_location_is_hotel,1.2213834663486693
+93,197,pool_breakfast_the_was_spa,"[5, 7, 8, 11, 16, 19, 20, 22, 25, 28, 32, 49, 50, 51, 57, 58, 60, 63, 68, 78, 79, 83, 92, 103]",191,pool_breakfast_spa_the_room,151,bar_food_restaurant_drinks_drink,1.2124838919158452
+92,196,service_star_five_stars_customer,"[13, 54, 62, 80, 100]",106,star_five_stars_this_hotel,130,service_customer_impeccable_excellent_was,1.1974865795202159
+91,195,four_seasons_location_is_hotel,"[2, 3, 6, 15, 17, 24, 34, 41, 42, 43, 45, 46, 47, 52, 53, 56, 70, 71, 73, 74, 75, 81, 88, 90, 91, 96]",190,four_seasons_location_hotel_is,185,property_seattle_fairmont_grounds_garden,1.1803036675192187
+90,194,staff_friendly_helpful_desk_front,"[4, 12, 31, 36, 84, 85, 93, 95, 97]",189,staff_friendly_helpful_concierge_very,114,desk_front_staff_helpful_valet,1.1452801861034945
+89,193,bathroom_shower_view_suite_rooms,"[1, 10, 14, 18, 23, 44, 48, 65, 69, 87, 101]",186,shower_bathroom_view_suite_rooms,116,tv_mirror_bathroom_channels_screen,1.1340670526344765
+88,192,housekeeping_our_check_they_anniversary,"[26, 30, 37, 40, 55, 59, 61, 64, 66, 77, 82, 86, 89, 98, 99]",188,check_our_anniversary_they_champagne,182,housekeeping_towels_ice_slippers_turn,1.1314033801135253
+87,191,pool_breakfast_spa_the_room,"[5, 7, 11, 16, 19, 22, 25, 28, 32, 49, 51, 57, 58, 63, 68, 78, 79, 83, 103]",183,noise_lobby_quiet_room_elevator,184,pool_breakfast_spa_coffee_gym,1.124221213901881
+86,190,four_seasons_location_hotel_is,"[2, 3, 6, 15, 17, 34, 41, 42, 43, 45, 46, 52, 56, 70, 71, 75, 81, 90, 91, 96]",169,location_shopping_walking_walk_distance,187,four_seasons_nyc_boston_hotel,1.0949686672214212
+85,189,staff_friendly_helpful_concierge_very,"[4, 12, 36, 85, 95, 97]",122,concierge_reservations_helpful_suggestions_us,168,staff_friendly_helpful_very_professional,1.0856616861963915
+84,188,check_our_anniversary_they_champagne,"[30, 37, 40, 55, 59, 61, 64, 66, 99]",174,check_our_they_bags_she,125,anniversary_champagne_bottle_chocolate_celebrate,1.082227770054628
+83,187,four_seasons_nyc_boston_hotel,"[3, 6, 15, 34, 41, 42, 43, 45, 46, 52, 56, 71, 75, 81, 90, 91, 96]",158,nyc_york_new_ny_conrad,181,seasons_four_boston_chicago_hotel,1.0519378997618292
+82,186,shower_bathroom_view_suite_rooms,"[1, 10, 14, 18, 23, 44, 48, 87, 101]",118,decor_hotel_modern_furnishings_beautiful,166,shower_bathroom_view_suite_rooms,1.0495439026562077
+81,185,property_seattle_fairmont_grounds_garden,"[24, 47, 53, 73, 74, 88]",164,property_fairmont_seattle_this_puget,180,grounds_garden_00_maintained_beautiful,1.035129086623121
+80,184,pool_breakfast_spa_coffee_gym,"[5, 7, 16, 19, 22, 25, 28, 51, 57, 68]",157,parking_worth_rate_price_expensive,179,pool_breakfast_spa_coffee_gym,1.0329286254535497
+79,183,noise_lobby_quiet_room_elevator,"[11, 32, 49, 58, 63, 78, 79, 83, 103]",176,noise_lobby_quiet_elevator_air,155,room_was_nice_dirty_noticed,1.028651750910346
+78,182,housekeeping_towels_ice_slippers_turn,"[26, 77, 82, 86, 89, 98]",162,housekeeping_ice_turn_turndown_down,153,towels_slippers_robes_bath_toiletries,1.0275760414714308
+77,181,seasons_four_boston_chicago_hotel,"[3, 15, 34, 41, 42, 43, 45, 46, 56, 71, 75, 90, 91, 96]",178,seasons_four_boston_chicago_hotel,173,peninsula_highly_recommended_recommend_without,1.0102171680139655
+76,180,grounds_garden_00_maintained_beautiful,"[24, 53, 73]",175,grounds_garden_00_maintained_beautiful,24,gym_fitness_workout_facility_center,1.0082398238846686
+75,179,pool_breakfast_spa_coffee_gym,"[5, 7, 16, 22, 25, 28, 68]",167,breakfast_coffee_internet_wifi_free,148,pool_spa_gym_fitness_area,0.9912086834968195
+74,178,seasons_four_boston_chicago_hotel,"[3, 15, 34, 41, 42, 43, 45, 46, 56, 71, 90, 91]",142,boston_mandarin_oriental_harbor_common,177,four_seasons_chicago_trump_this,0.9838950775304347
+73,177,four_seasons_chicago_trump_this,"[3, 15, 41, 42, 43, 45, 56, 71, 90, 91]",145,relaxing_la_relax_atmosphere_relaxed,171,seasons_four_chicago_trump_this,0.9766613355499372
+72,176,noise_lobby_quiet_elevator_air,"[11, 32, 49, 58, 78, 103]",103,drawers_desk_closet_couch_large,172,noise_lobby_quiet_elevator_air,0.9620517705854272
+71,175,grounds_garden_00_maintained_beautiful,"[53, 73]",53,worth_expensive_penny_cheap_every,73,waldorf_astoria_towers_grandest_chicago,0.9591810619415975
+70,174,check_our_they_bags_she,"[30, 37, 55, 59, 64, 66, 99]",165,check_bags_bill_call_our,146,she_cribs_stuffed_her_toy,0.9574691639088387
+69,173,peninsula_highly_recommended_recommend_without,"[75, 96]",75,seattle_puget_sound_fairmont_downtown,96,peninsula_3x_oue_cheep_dismissive,0.94920287118444
+68,172,noise_lobby_quiet_elevator_air,"[11, 32, 49, 58, 78]",134,noise_quiet_air_loud_hear,160,lobby_elevator_elevators_smell_odor,0.9398122443820556
+67,171,seasons_four_chicago_trump_this,"[3, 15, 41, 42, 43, 45, 71, 90]",170,seasons_four_chicago_trump_this,90,hyatt_park_chicago_connection_working,0.9351630801305831
+66,170,seasons_four_chicago_trump_this,"[3, 15, 41, 42, 43, 45, 71]",71,san_diego_francisco_located_beach,161,seasons_four_chicago_trump_hotel,0.930673259019595
+65,169,location_shopping_walking_walk_distance,"[2, 17, 70]",70,ipad_cd_iphone_bose_player,104,location_shopping_walking_walk_restaurants,0.9255115828912549
+64,168,staff_friendly_helpful_very_professional,"[4, 12, 85, 97]",105,staff_friendly_helpful_very_professional,137,name_welcoming_everyone_greeted_by,0.9249314697942614
+63,167,breakfast_coffee_internet_wifi_free,"[7, 25, 28, 68]",141,internet_wifi_free_wi_fi,140,breakfast_coffee_tea_morning_maker,0.9244077282345218
+62,166,shower_bathroom_view_suite_rooms,"[1, 10, 14, 18, 48, 87, 101]",132,rooms_are_spacious_comfortable_location,147,shower_bathroom_view_suite_bed,0.915287243071372
+61,165,check_bags_bill_call_our,"[30, 37, 59, 64, 66]",127,check_early_ready_fast_call,136,bags_bill_me_called_he,0.9149251356618783
+60,164,property_fairmont_seattle_this_puget,"[47, 74, 88]",47,hotels_stayed_ve_best_nicest,156,seattle_fairmont_puget_sound_rates,0.9065681248307464
+59,163,again_stay_here_will_back,"[27, 29, 35, 67, 76]",107,back_will_return_definitely_be,124,stay_again_here_would_definitely,0.9038104264663809
+58,162,housekeeping_ice_turn_turndown_down,"[26, 77, 82, 98]",98,desk_front_told_said_agent,152,housekeeping_ice_turn_turndown_down,0.9027772913528128
+57,161,seasons_four_chicago_trump_hotel,"[3, 15, 41, 42, 43, 45]",154,seasons_four_chicago_trump_this,42,champagne_bottle_chocolate_anniversary_strawberries,0.8845130232704953
+56,160,lobby_elevator_elevators_smell_odor,"[32, 49, 78]",78,highly_recommended_recommend_agno_spelling,143,lobby_elevator_elevators_floor_to,0.8828272188077674
+55,159,de_la_le_un_et,"[0, 9, 21]",139,de_la_le_et_que,9,breakfast_morning_buffet_breakfasts_included,0.8824488446176395
+54,158,nyc_york_new_ny_conrad,"[6, 52, 81]",81,dirty_clean_carpets_dusty_room,112,nyc_york_new_ny_chatwal,0.8810151259739827
+53,157,parking_worth_rate_price_expensive,"[19, 51, 57]",128,worth_rate_price_expensive_rates,57,cribs_stuffed_toy_her_crib,0.8801110202352147
+52,156,seattle_fairmont_puget_sound_rates,"[74, 88]",74,surrey_london_palms_royal_stayed,88,welcoming_smiling_smile_greeted_friendly,0.8692077600041933
+51,155,room_was_nice_dirty_noticed,"[63, 79, 83]",126,room_was_nice_spotless_noticed,79,turn_turndown_down_service_night,0.8690476048848935
+50,154,seasons_four_chicago_trump_this,"[3, 15, 41, 43, 45]",41,ritz_at_fabulous_stay_service,149,seasons_four_chicago_this_hotel,0.8537213521683028
+49,153,towels_slippers_robes_bath_toiletries,"[86, 89]",89,slippers_robes_toiletries_sized_robe,86,valet_desk_front_staff_everyone,0.8500902077501042
+48,152,housekeeping_ice_turn_turndown_down,"[26, 77, 82]",82,service_room_poor_znd_timeliness,138,housekeeping_turn_turndown_down_job,0.8460912899163999
+47,151,bar_food_restaurant_drinks_drink,"[8, 20, 50, 60, 92]",129,bar_food_drinks_drink_lounge,135,restaurant_restaurants_stations_dining_food,0.8424584147798866
+46,150,stayed_nights_august_surrey_here,"[33, 72, 94, 102]",72,tv_channels_large_hd_screen,117,stayed_nights_august_here_wife,0.84051683547475
+45,149,seasons_four_chicago_this_hotel,"[3, 15, 43, 45]",133,seasons_four_chicago_baltimore_regis,120,hotel_this_hotels_recommend_stayed,0.8383396332802087
+44,148,pool_spa_gym_fitness_area,"[5, 16, 22]",131,pool_gym_fitness_area_swimming,16,suite_upgraded_king_deluxe_upgrade,0.8358334896457226
+43,147,shower_bathroom_view_suite_bed,"[1, 10, 14, 101]",144,shower_bathroom_view_suite_bed,101,she_standing_health_her_asked,0.8351062269353688
+42,146,she_cribs_stuffed_her_toy,"[55, 99]",55,00_ten_10_ouch_95,99,service_fs_hotel_this_potentential,0.8299614032611273
+41,145,relaxing_la_relax_atmosphere_relaxed,"[56, 91]",56,star_five_stars_hotel_hotels,91,restaurant_excellent_refurbishing_michelle_sample,0.8252817628922284
+40,144,shower_bathroom_view_suite_bed,"[1, 10, 14]",10,bar_drinks_lounge_drink_cocktails,119,shower_bathroom_view_suite_floor,0.8251938985644636
+39,143,lobby_elevator_elevators_floor_to,"[32, 49]",49,property_this_overall_save_is,32,bags_bellman_car_valet_luggage,0.8122946989388764
+38,142,boston_mandarin_oriental_harbor_common,"[34, 46]",46,decor_furnishings_style_modern_elegance,34,lobby_gorgeous_is_small_building,0.8120882692489619
+37,141,internet_wifi_free_wi_fi,"[25, 68]",68,called_reservation_incident_did_that,25,hotel_decor_historic_renovated_modern,0.8104885020832578
+36,140,breakfast_coffee_tea_morning_maker,"[7, 28]",28,internet_wifi_free_wi_fi,7,pool_area_swimming_small_gym,0.7971233790371413
+35,139,de_la_le_et_que,"[0, 21]",0,location_shopping_walk_walking_distance,21,food_delicious_tasty_meal_was,0.790530915083705
+34,138,housekeeping_turn_turndown_down_job,"[26, 77]",77,here_will_again_staying_stay,26,lol_cooney_genial_russian_plural,0.7857106547632449
+33,137,name_welcoming_everyone_greeted_by,"[85, 97]",85,room_spotless_noticed_huge_was,97,stayed_days_here_adams_hay,0.7855797967997049
+32,136,bags_bill_me_called_he,"[30, 37, 66]",30,coffee_tea_maker_nespresso_morning,123,bill_called_me_call_fixed,0.7788019003266585
+31,135,restaurant_restaurants_stations_dining_food,"[60, 92]",92,la_vibe_confortably_specialy_biltmore,60,air_conditioning_conditioner_temperature_properly,0.7764397965590665
+30,134,noise_quiet_air_loud_hear,"[11, 58]",58,relaxing_atmosphere_relaxed_relax_day,11,di_il_la_che_molto,0.7721690417454372
+29,133,seasons_four_chicago_baltimore_regis,"[3, 43]",3,shower_bathroom_tub_bath_toilet,43,trump_soho_chicago_returned_at,0.7621481333148001
+28,132,rooms_are_spacious_comfortable_location,"[18, 48, 87]",48,mandarin_oriental_boston_at_hotels,115,rooms_are_spacious_comfortable_room,0.7462689577322265
+27,131,pool_gym_fitness_area_swimming,"[5, 22]",22,rate_rates_price_night_pay,5,seasons_four_baltimore_regis_at,0.7387115019687974
+26,130,service_customer_impeccable_excellent_was,"[13, 80, 100]",100,tip_tipping_accept_gratuity_tips,113,service_customer_impeccable_friendly_was,0.7355709427464394
+25,129,bar_food_drinks_drink_lounge,"[8, 20, 50]",8,nyc_york_new_ny_chatwal,121,food_dinner_delicious_restaurant_meal,0.7350052868937821
+24,128,worth_rate_price_expensive_rates,"[19, 51]",51,dinner_eat_restaurant_closed_ate,19,spa_massage_massages_use_treatment,0.7275578999342902
+23,127,check_early_ready_fast_call,"[59, 64]",64,star_stars_five_category_every,59,parking_valet_35_seems_fee,0.7260378866197542
+22,126,room_was_nice_spotless_noticed,"[63, 83]",63,early_ready_check_call_room,83,ice_water_cold_pack_hour,0.7204218830516174
+21,125,anniversary_champagne_bottle_chocolate_celebrate,"[40, 61]",40,carlton_ritz_charlotte_at_stayed,61,anniversary_celebrate_wedding_our_husband,0.7108706510449851
+20,124,stay_again_here_would_definitely,"[29, 35, 76]",108,again_here_would_stay_definitely,29,back_will_return_be_definitely,0.7068061887036797
+19,123,bill_called_me_call_fixed,"[37, 66]",66,check_fast_quick_efficient_smooth,37,again_would_here_stay_definitely,0.6889966493724364
+18,122,concierge_reservations_helpful_suggestions_us,"[36, 95]",95,reservations_mentions_reservation_any_concierge,36,boston_harbor_common_our_seasons,0.6860499915128352
+17,121,food_dinner_delicious_restaurant_meal,"[20, 50]",50,location_great_rooms_service_amenities,20,rooms_are_spacious_comfortable_decorated,0.6837567440151052
+16,120,hotel_this_hotels_recommend_stayed,"[15, 45]",45,dc_jefferson_washington_fairfax_stay,15,service_customer_impeccable_friendly_exceptional,0.6750657512438665
+15,119,shower_bathroom_view_suite_floor,"[1, 14]",1,de_et_le_est_la,14,staff_hotel_friendly_helpful_guest,0.6537100112417585
+14,118,decor_hotel_modern_furnishings_beautiful,"[23, 44]",44,chicago_in_best_stay_choice,23,el_que_de_en_muy,0.6489757465855281
+13,117,stayed_nights_august_here_wife,"[33, 94, 102]",94,towels_soft_bath_towel_cold,110,nights_stayed_august_here_wife,0.6413615438996237
+12,116,tv_mirror_bathroom_channels_screen,"[65, 69]",69,return_will_again_back_would,65,room_nice_was_lovely_spirited,0.6362841369983323
+11,115,rooms_are_spacious_comfortable_room,"[18, 87]",18,location_hotel_located_is_square,87,clean_spacious_modern_room_rooms,0.6240423302759476
+10,114,desk_front_staff_helpful_valet,"[31, 84, 93]",84,conrad_shack_shake_new_meyer,109,desk_front_helpful_staff_professional,0.6178350269944214
+9,113,service_customer_impeccable_friendly_was,"[13, 80]",13,noise_quiet_hear_loud_street,80,smell_odor_smelled_mildew_tissue,0.5804364128328833
+8,112,nyc_york_new_ny_chatwal,"[6, 52]",6,staff_friendly_helpful_very_professional,52,elevator_elevators_floor_key_5th,0.4889431374730909
+7,111,ritz_carlton_at_stayed_charlotte,"[38, 39]",38,concierge_helpful_suggestions_reservations_us,39,bill_fixed_phone_me_issue,0.46601098844855804
+6,110,nights_stayed_august_here_wife,"[33, 102]",33,desk_front_helpful_professional_staff,102,name_names_by_knew_everyone,0.4624234774823397
+5,109,desk_front_helpful_staff_professional,"[31, 93]",31,stay_here_overall_wonderful_enjoyed,93,fairmont_olympic_rates_swish_nasty,0.42419263798979534
+4,108,again_here_would_stay_definitely,"[35, 76]",76,grounds_garden_maintained_beautiful_are,35,stayed_nights_august_here_wife,0.42277756807824196
+3,107,back_will_return_definitely_be,"[27, 67]",27,housekeeping_job_clean_turn_returned,67,mirror_tv_bathroom_built_mirrors,0.4139622931765128
+2,106,star_five_stars_this_hotel,"[54, 62]",62,stations_restaurants_restaurant_dining_entertainment,54,nyc_standards_manhattan_rooms_spacious,0.3547915534264292
+1,105,staff_friendly_helpful_very_professional,"[4, 12]",12,bed_comfortable_pillows_beds_linens,4,view_floor_views_room_harbor,0.29414833851595823
+0,104,location_shopping_walking_walk_restaurants,"[2, 17]",17,hotel_this_recommend_highly_would,2,experience_say_it_overall_expectations,0.2932049128990375

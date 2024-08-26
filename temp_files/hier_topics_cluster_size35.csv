@@ -1,0 +1,49 @@
+,Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+47,96,the_and_to_was_in,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48]",92,de_la_le_un_et,95,the_and_to_was_is,1.5753261979071194
+46,95,the_and_to_was_is,"[0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 47, 48]",93,four_seasons_stay_ritz_stayed,94,the_and_was_is_to,1.3891702538958468
+45,94,the_and_was_is_to,"[0, 1, 2, 3, 5, 6, 7, 8, 10, 12, 14, 15, 16, 17, 19, 20, 21, 22, 24, 25, 26, 27, 28, 31, 34, 35, 40, 43, 44, 45, 47, 48]",91,the_and_is_was_to,72,staff_friendly_helpful_concierge_and,1.1846515541734273
+44,93,four_seasons_stay_ritz_stayed,"[9, 13, 18, 29, 32, 33, 36, 37, 38, 39, 41, 42]",51,ritz_carlton_at_the_stayed,90,four_seasons_stay_here_stayed,1.16240912256107
+43,92,de_la_le_un_et,"[4, 11, 23, 30, 46]",87,00_lol_ten_russian_plural,79,de_la_le_un_et,1.1172073373207119
+42,91,the_and_is_was_to,"[0, 1, 2, 5, 6, 7, 8, 10, 12, 14, 16, 17, 19, 20, 22, 24, 25, 26, 27, 31, 34, 35, 40, 43, 44, 45, 47, 48]",89,the_is_and_to_was,81,view_bathroom_shower_the_room,1.112040925377558
+41,90,four_seasons_stay_here_stayed,"[9, 13, 18, 29, 32, 33, 38, 39, 41, 42]",84,four_seasons_boston_stayed_at,75,stay_again_here_will_back,1.0472935380814723
+40,89,the_is_and_to_was,"[0, 1, 2, 5, 8, 14, 17, 19, 22, 24, 26, 27, 31, 34, 35, 40, 43, 44, 45, 48]",82,lobby_elevators_bags_to_elevator,88,the_is_and_to_of,1.04541518059643
+39,88,the_is_and_to_of,"[0, 1, 2, 5, 8, 14, 17, 19, 22, 24, 26, 27, 34, 40, 43, 44]",50,location_is_walk_shopping_walking,86,the_and_was_is_service,1.0306667043262485
+38,87,00_lol_ten_russian_plural,"[30, 46]",30,lol_cooney_gauvin_plural_russian,46,00_ten_10_ouch_out,0.9971385481945201
+37,86,the_and_was_is_service,"[0, 1, 5, 8, 14, 17, 19, 22, 24, 26, 27, 40, 43, 44]",85,the_and_was_service_is,83,worth_decor_furnishings_expensive_it,0.9603086713423357
+36,85,the_and_was_service_is,"[0, 1, 5, 8, 14, 17, 19, 22, 24, 26, 27, 43]",80,the_service_hotel_was_breakfast,73,pool_spa_gym_the_area,0.9568131963989295
+35,84,four_seasons_boston_stayed_at,"[9, 13, 33, 38, 39, 41, 42]",69,boston_mandarin_oriental_harbor_in,77,four_seasons_stayed_chicago_at,0.9313469632335298
+34,83,worth_decor_furnishings_expensive_it,"[40, 44]",40,decor_furnishings_modern_style_elegant,44,worth_expensive_penny_cheap_every,0.9146647433804165
+33,82,lobby_elevators_bags_to_elevator,"[31, 35, 45, 48]",58,bags_our_check_bellman_ready,70,lobby_elevators_elevator_the_to,0.9009638299845312
+32,81,view_bathroom_shower_the_room,"[6, 7, 10, 12, 16, 20, 25, 47]",52,nyc_york_new_ny_in,76,shower_bathroom_view_room_the,0.8859519636966656
+31,80,the_service_hotel_was_breakfast,"[0, 1, 5, 14, 17, 19, 24, 27, 43]",78,the_hotel_breakfast_this_and,61,service_housekeeping_turndown_turn_was,0.881727094912671
+30,79,de_la_le_un_et,"[4, 11, 23]",66,de_la_le_et_que,11,di_il_la_che_molto,0.8765418328500114
+29,78,the_hotel_breakfast_this_and,"[0, 1, 5, 19, 24, 27, 43]",43,property_this_is_overall_say,71,hotel_the_breakfast_and_was,0.8650600532850701
+28,77,four_seasons_stayed_chicago_at,"[9, 13, 38, 39, 42]",74,four_seasons_chicago_stayed_trump,42,dc_jefferson_washington_fairfax_stay,0.8525773759452364
+27,76,shower_bathroom_view_room_the,"[6, 7, 12, 16, 20, 25]",60,bed_comfortable_beds_rooms_are,68,bathroom_shower_view_suite_room,0.8511721985729724
+26,75,stay_again_here_will_back,"[18, 29, 32]",54,stay_again_here_would_definitely,29,back_will_return_be_definitely,0.8395641064193466
+25,74,four_seasons_chicago_stayed_trump,"[9, 13, 38, 39]",63,four_seasons_chicago_at_baltimore,65,trump_stayed_soho_nights_my,0.8320615135491544
+24,73,pool_spa_gym_the_area,"[8, 22, 26]",62,pool_gym_fitness_the_area,22,spa_massage_massages_use_the,0.7964195763838523
+23,72,staff_friendly_helpful_concierge_and,"[3, 15, 21, 28]",56,staff_friendly_helpful_front_very,21,concierge_reservations_helpful_us_and,0.7925802507005234
+22,71,hotel_the_breakfast_and_was,"[0, 1, 5, 19, 24, 27]",67,hotel_breakfast_the_and_restaurant,19,internet_wifi_free_wi_fi,0.7870212376590553
+21,70,lobby_elevators_elevator_the_to,"[31, 45]",45,elevators_elevator_to_floor_key,31,lobby_is_the_gorgeous_small,0.7856661210761715
+20,69,boston_mandarin_oriental_harbor_in,"[33, 41]",41,mandarin_oriental_boston_at_in,33,boston_harbor_common_our_to,0.7791734076158847
+19,68,bathroom_shower_view_suite_room,"[6, 7, 16, 20]",6,shower_bathroom_tub_bath_toilet,64,view_suite_room_floor_noise,0.7641551825739982
+18,67,hotel_breakfast_the_and_restaurant,"[0, 1, 5, 24, 27]",27,star_five_stars_review_rating,59,breakfast_hotel_the_restaurant_and,0.7556925687812917
+17,66,de_la_le_et_que,"[4, 23]",4,de_et_le_est_la,23,el_de_que_en_la,0.7549363550255781
+16,65,trump_stayed_soho_nights_my,"[13, 39]",39,trump_soho_at_chicago_hotel,13,stayed_nights_here_my_husband,0.7501322782311509
+15,64,view_suite_room_floor_noise,"[7, 16, 20]",57,view_suite_floor_room_views,16,noise_quiet_hear_loud_street,0.7433086093704987
+14,63,four_seasons_chicago_at_baltimore,"[9, 38]",9,four_seasons_baltimore_at_the,38,chicago_in_best_stay_we,0.7209775257097288
+13,62,pool_gym_fitness_the_area,"[8, 26]",8,pool_area_the_small_is,26,gym_fitness_facility_workout_center,0.7079671933988629
+12,61,service_housekeeping_turndown_turn_was,"[14, 17]",17,housekeeping_turndown_turn_service_down,14,service_customer_impeccable_was_friendly,0.6996205808451433
+11,60,bed_comfortable_beds_rooms_are,"[12, 25]",12,bed_comfortable_pillows_beds_linens,25,rooms_are_spacious_comfortable_appointed,0.6799867708221974
+10,59,breakfast_hotel_the_restaurant_and,"[0, 1, 5, 24]",55,breakfast_hotel_the_restaurant_and,24,rate_rates_night_price_for,0.6496368753062876
+9,58,bags_our_check_bellman_ready,"[35, 48]",35,bags_bellman_our_luggage_car,48,early_check_ready_room_checked,0.6372947016125294
+8,57,view_suite_floor_room_views,"[7, 20]",20,suite_upgraded_king_deluxe_room,7,view_floor_views_room_on,0.6305068928016251
+7,56,staff_friendly_helpful_front_very,"[3, 15, 28]",28,desk_front_staff_helpful_bell,49,staff_friendly_helpful_and_very,0.6287024905035411
+6,55,breakfast_hotel_the_restaurant_and,"[0, 1, 5]",53,hotel_this_hotels_is_it,0,breakfast_restaurant_food_bar_the,0.5607130552759741
+5,54,stay_again_here_would_definitely,"[18, 32]",32,stay_here_enjoyed_our_overall,18,again_here_stay_would_definitely,0.5437733503821548
+4,53,hotel_this_hotels_is_it,"[1, 5]",5,experience_it_say_overall_not,1,hotel_this_hotels_is_of,0.5030147246150989
+3,52,nyc_york_new_ny_in,"[10, 47]",10,nyc_york_new_ny_to,47,nyc_rooms_standards_spacious_york,0.45081205044492234
+2,51,ritz_carlton_at_the_stayed,"[36, 37]",36,carlton_ritz_at_charlotte_stayed,37,ritz_at_the_stay_service,0.4315643843099657
+1,50,location_is_walk_shopping_walking,"[2, 34]",34,location_hotel_is_located_great,2,location_walk_is_walking_shopping,0.3579516492126792
+0,49,staff_friendly_helpful_and_very,"[3, 15]",3,staff_friendly_helpful_very_and,15,staff_hotel_friendly_helpful_and,0.23438114426903134
